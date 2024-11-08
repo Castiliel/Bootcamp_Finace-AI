@@ -5,7 +5,7 @@ import {
 } from "@prisma/client";
 
 export const TRANSACTION_CATEGORY_LABELS = {
-  EDUCATION: "Moradia",
+  EDUCATION: "Educação",
   ENTERTAINMENT: "Entreterimento",
   FOOD: "Alimentação",
   HEALTH: "Saúde",
